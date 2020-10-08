@@ -1,0 +1,6 @@
+{
+    "Locators": {
+        "angularLink": "angular.io",
+        "search": "input[type='search']"
+    }
+}
